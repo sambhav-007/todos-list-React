@@ -6,13 +6,9 @@ A simple and clean task management application built with React. It allows you t
 
 **(Optional but Highly Recommended!)**
 
-A live demo of this project is hosted here: **[Link to your deployed site]**
+A live demo of this project is hosted here: **https://sambhav-007.github.io/todos-list-React/**
 
-## Preview
 
-**(Add a screenshot of your application here! This is one of the most important parts of a README.)**
-
-![Todos List App Screenshot](./path-to-your-screenshot.png)
 
 ---
 
